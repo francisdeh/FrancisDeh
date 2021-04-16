@@ -25,12 +25,19 @@ We did some awesome stuffs with it, @nakjemmy
 - and anything else that embraces me. Its a life long learning
 ---
 
-**🧰 Give me a new macbook and i will rebuild the web with ...**
+**🧰 Give me a new macbook and i will rebuild the web with ...
 
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Spring Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>
 
 
 ---
+
+## &#x1f4c8; What Github thinks of my laziness so far
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisDeh&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Deh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisDeh&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 **🛰️ life moves on and the Almighty urges us on 😃**
 <!--
 **FrancisDeh/FrancisDeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
